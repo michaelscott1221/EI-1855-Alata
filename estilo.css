@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.footer i{
+    color: white;
+}
+.bg-black {
+  background-color: black; /* naranja Popeyes */
+}
+#carouselExampleCaptions .carousel-item {
+  height: 60vh;        /* altura responsive */
+  min-height: 300px;
+  max-height: 500px;
+}
+#carouselExampleCaptions .carousel-item img {
+  height: 100%;
+  object-fit: cover;
+}
